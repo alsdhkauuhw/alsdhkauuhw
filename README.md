@@ -5,6 +5,7 @@ Hello, I'm [@leiye](https://github.com/alsdhkauuhw/alsdhkauuhw)
 🔎I enjoy creating innovative solutions to complex problems and constantly learning new technologies  
 Let's make sth happen. Code with me, plz! reach me at [vbblszh0338735@163.com]  
 
+![](https://komarev.com/ghpvc/?username=alsdhkauuhw)
 
 ---
 
@@ -25,4 +26,19 @@ Let's make sth happen. Code with me, plz! reach me at [vbblszh0338735@163.com]
 
 - <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">☯</font></font> [boki: A Character Mod for game Don't Starve](https://github.com/alsdhkauuhw/mods)
 
-- [More](https://github.com/alsdhkauuhw?tab=repositories) 
+- [More](https://github.com/alsdhkauuhw?tab=repositories)
+
+---
+
+**Tools**
+
+![Static Badge](https://img.shields.io/badge/git-80bfff?logo=git&logoColor=black)  ![Static Badge](https://img.shields.io/badge/maven-rgb(124%2C136%2C55)?logo=apachemaven&logoColor=rgb(0.0.0))  ![Static Badge](https://img.shields.io/badge/docker-rgb(111%2C111%2C111)?logo=docker&logoColor=%232496ED)  ![Static Badge](https://img.shields.io/badge/vscode-rgb(45%2C66%2C83)?logo=visualstudiocode&logoColor=%232496ED)
+
+---
+
+**Sum**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsdhkauuhw&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsdhkauuhw&layout=compact&show_icons=true&theme=transparent)
