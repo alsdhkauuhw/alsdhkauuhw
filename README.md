@@ -20,6 +20,10 @@ Let's make sth happen. Code with me, plz! reach me at [vbblszh0338735@163.com]
 
 - <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🦹</font></font> [Student Dormitory Management System (DMS):  Based on Vue + Springboot framework](https://github.com/alsdhkauuhw/LNCQXT)
 
+**My Learning Sharing Library**
+
+- 🖌 [My's Coding: Java stereotyped essay sharing](https://github.com/kunkunout/My-Coding)
+
 **Other cool**
 
 - <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">☢</font></font> [Mp3: A Goods Mod for game Don't Starve](https://github.com/alsdhkauuhw/mod--mp3)
